@@ -1,6 +1,6 @@
 Here is the code used for various Kaggle competitions. These competitions are ML and data science challenges based around real-life use cases.
 
-### Competition 1: NLP -- PII Data Detection
+### PII Data Detection (NLP - Token classification)
 
 The goal of this competition is to provide a model capable of detecting and labelling student data in essays. I have first created a baseline using a pre-trained model (Presidio by Microsoft). Then, I used different models like Bert to improve efficiency. These were the models used:
 
@@ -8,7 +8,7 @@ The goal of this competition is to provide a model capable of detecting and labe
 2. [NER fine-tuned Deberta](https://github.com/GaetanHHHHHH/kaggle-competitions/blob/main/pii_data_detection/2-pii-data-detection-second-model.ipynb) 
 3. Deberta ([training](https://github.com/GaetanHHHHHH/kaggle-competitions/blob/main/pii_data_detection/3-deberta-fine-tuned-training.ipynb), [inference](https://github.com/GaetanHHHHHH/kaggle-competitions/blob/main/pii_data_detection/3-deberta-fine-tuned-inference.ipynb))
 
-### Competition 2: Computer Vision -- Digit Recognition
+### Digit Recognition (Computer Vision - Image classification)
 
 Based around the famous MNIST dataset, the goal of this competition is to build models able to correctly classify handwritten digits. It is a simple playground to experiment using a lot of models, from sklearn to handmade CNNs and ensembles of more complex models such as ResNet and DenseNet. I explored the following models:
 

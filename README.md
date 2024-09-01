@@ -1,4 +1,4 @@
-Here is the code used for various Kaggle competitions. These competitions are ML and data science challenge based around real-life use cases.
+Here is the code used for various Kaggle competitions. These competitions are ML and data science challenges based around real-life use cases.
 
 ### Competition 1: NLP -- PII Data Detection
 
